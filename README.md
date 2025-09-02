@@ -81,17 +81,18 @@ To set up and run this project locally:
    ```bash
    python credit_risk_training.py
    ```
-   - This will:  
-  - ✅ **Preprocess data** 
-  - ✅ **Train Logistic Regression, Random Forest, and XGBoost models**
-  - ✅ **Save trained models and preprocessing files**
+   **This will:** 
+     - ✅ **Preprocess data** 
+     - ✅ **Train Logistic Regression, Random Forest, and XGBoost models**
+     - ✅ **Save trained models and preprocessing files**
+
 
 5. **Run Streamlit App:**
    ```bash
    streamlit run app.py
    ```  
-   - Accepts the app at:  
-  -  **Local URL: `http://localhost:8501`**  
+   **Accepts the app at:** 
+      - **Local URL: `http://localhost:8501`**  
 
 
   ## 📌 Future Enhancements
@@ -100,3 +101,4 @@ To set up and run this project locally:
 - ✨ **Feature Engineering:** Create new features or transform existing ones to improve accuracy.  
 - 🚀 **Deployment:** Deploy the app to **Streamlit Cloud**, **AWS**, or **Heroku**.  
 - 🌐 **API Integration:** Build REST API endpoints for integration with web apps.  
+
