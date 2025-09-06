@@ -2,6 +2,9 @@
 
 A machine learning project that predicts **loan default risk** using multiple models (*Logistic Regression, Random Forest, and XGBoost*) and provides a **Streamlit web app** for real-time predictions.  
 
+## 🚀 Live Demo
+👉 [Click here to try the app](https://credit-risk-prediction-application.streamlit.app/)
+
 Dataset: [Credit Risk Dataset (Kaggle)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)  
 
 ---
@@ -101,4 +104,5 @@ To set up and run this project locally:
 - ✨ **Feature Engineering:** Create new features or transform existing ones to improve accuracy.  
 - 🚀 **Deployment:** Deploy the app to **Streamlit Cloud**, **AWS**, or **Heroku**.  
 - 🌐 **API Integration:** Build REST API endpoints for integration with web apps.  
+
 
