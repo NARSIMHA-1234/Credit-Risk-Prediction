@@ -102,8 +102,8 @@ To set up and run this project locally:
 
 - ⚙️ **Hyperparameter Tuning:** Use `GridSearchCV` or `Optuna` to optimize model performance.  
 - ✨ **Feature Engineering:** Create new features or transform existing ones to improve accuracy.  
-- 🚀 **Deployment:** Deploy the app to **Streamlit Cloud**, **AWS**, or **Heroku**.  
 - 🌐 **API Integration:** Build REST API endpoints for integration with web apps.  
+
 
 
 
